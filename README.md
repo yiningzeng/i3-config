@@ -10,9 +10,9 @@ Install the following application in your system :
 * network-manager-applet-indicator
 * i3-gaps
 * compton-tryone-git
-* nitrogen 
+* nitrogen You can use nitrogen (simple GUI with multi-monitor support) to set wallpapers. Restore your settings on startup by adding the following line to your ~/.i3/config:
 * polybar 
-* rofi 
+* rofi i3 wm rofi instead of dmenu
 * ttf-font-awesome 
 * adobe-source-code-pro-fonts
 * ttf-yosemite-san-francisco-font-git
